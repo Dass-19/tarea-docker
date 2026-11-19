@@ -1,0 +1,115 @@
+id_cliente,nombre_completo,edad,genero,ciudad,ingreso_mensual,fecha_registro,compras_ultimo_mes,gasto_total,satisfaccion,suscripcion_activa
+USR-1066,Luis Torres,34.0,F,Cuenca,2484.96,2023-06-24,14.0,512.2,1.0,NO
+USR-1101,Valentina Vargas,74.0,Femenino,Guayaquil,1763.53,04-16-2026,12.0,441.22,3.0,0
+USR-1193,Javier Torres,18.0,Masculino,Manta,1021.83,04-21-2025,7.0,523.7,4.0,Sí
+USR-1111,luis lópez,30.0,M,Cuenca,1448.51,2025-05-16,4.0,89.48,1.0,False
+USR-1121,Ana Flores,210.0,M,Guayaquil,"$1,128.25",05-14-2026,29.0,2354.15,2.0,0
+USR-1013,mateo lópez,66.0,M,Guayaquil,1278.38,29/03/2026,24.0,846.68,4.0,si
+USR-1064,Carlos García,49.0,Masculino,Guayaquil,772.77,12-18-2024,19.0,1194.8,3.0,No
+USR-1044,CARLOS TORRES,19.0,Femenino,Guayaquil,3830.74,24/07/2024,28.0,1519.03,3.0,False
+USR-1158,luis rodríguez,45.0,M,guayaquil,1708.32,07/01/2024,7.0,366.68,1.0,NO
+USR-1167,Valentina Pérez,53.0,M,Guayaquil,1712.3,2025-03-31,12.0,551.61,2.0,si
+USR-1045,javier mendoza,62.0,F,Quito,1203.83,2026-07-20,17.0,752.9,1.0,NO
+USR-1130,lucía vargas,37.0,Masculino,QUITO,739.9,22/12/2025,27.0,1693.73,4.0,Sí
+USR-1030,  Valentina Mendoza  ,25.0,F,Cuenca,1263.57,07-18-2025,4.0,280.74,4.0,NO
+USR-1003,SEBASTIÁN RODRÍGUEZ,38.0,F,Cuenca ,835.11,09-30-2024,9.0,438.3,2.0,Sí
+USR-1159,Luis Torres,52.0,Masculino,Cuenca,2072.1,2026-03-08,29.0,871.35,5.0,Sí
+USR-1015,  Valentina Martínez  ,62.0,M,Cuenca,1117.8,15/11/2023,10.0,643.55,2.0,0
+USR-1042,Luis Rodríguez,31.0,F,Guayaquil,769.68,2023-04-12,24.0,428.7,4.0,1
+USR-1126,sebastián torres,35.0,F,Quito,1015.6,2025/05/18,10.0,472.45,4.0,NO
+USR-1186,Lucía Torres,66.0,F,Guayaquil,1520.98,04-28-2025,28.0,1378.42,3.0,si
+USR-1162,CARLOS LÓPEZ,36.0,m,Guayaquil,22221.75,2025-11-15,21.0,1315.63,1.0,Sí
+USR-1110,VALENTINA GARCÍA,32.0,Masculino,Quito,1385.79,2026/04/29,1.0,77.42,2.0,No
+USR-1005,  Ana Sánchez  ,37.0,Masculino,Manta,1386.77,2024-09-23,18.0,1057.83,3.0,False
+USR-1032,carlos flores,29.0,Femenino,Cuenca,1942.46,2024/10/03,15.0,818.81,3.0,Sí
+USR-1171,ELENA FLORES,48.0,M,Ambato,1199.36,2025-04-09,22.0,1506.89,4.0,False
+USR-1010,Valentina Vargas,22.0,M,Ambato,1199.69,2025-01-11,17.0,242.77,5.0,True
+USR-1144,Camila Pérez,61.0,No binario,Quito,1034.05,05/08/2023,13.0,554.56,1.0,si
+USR-1052,Luis González,54.0,Femenino,Ambato,768.95,09-27-2024,8.0,182.17,3.0,1
+USR-1125,  Lucía Vargas  ,23.0,F,Quito,1612.66,2023-12-11,20.0,910.23,3.0,No
+USR-1095,Elena Rodríguez,46.0,m,Quito,971.97,18/05/2026,19.0,1407.25,4.0,si
+USR-1145,Sebastián Torres,45.0,Otro,Quito,1220.39,2026/07/10,25.0,2095.82,5.0,Sí
+USR-1043,Mateo Vargas,57.0,Masculino,Guayaquil,1278.86,2026/02/28,23.0,578.4,5.0,False
+USR-1161,Lucía Rodríguez,24.0,M,Ambato,1228.42,07-08-2026,27.0,791.36,3.0,False
+USR-1016,Carlos Mendoza,34.0,M,Cuenca,2692.24,09-12-2024,0.0,0.0,5.0,1
+USR-1102,ANDRÉS PÉREZ,53.0,F,Cuenca,3960.99,2025-07-14,3.0,80.42,1.0,1
+USR-1176,valentina gonzález,56.0,F,Quito,"$1,340.55",2025/11/04,22.0,1564.92,1.0,si
+USR-1135,Diego Martínez,20.0,F,Manta,4041.58,2026-02-09,29.0,576.43,3.0,NO
+USR-1019,ana rodríguez,61.0,f,guayaquil,871.6,2025-07-11,20.0,1500.82,2.0,No
+USR-1014,Elena Mendoza,34.0,M,Quito,376.85,2024-12-04,8.0,470.68,5.0,False
+USR-1146,mateo torres,69.0,m,Guayaqil,798.29,2025/06/15,3.0,113.17,2.0,True
+USR-1065,Elena García,32.0,M,Manta,1462.59,2024/08/02,26.0,1655.79,1.0,si
+USR-1084,LUIS VARGAS,35.0,f,Ambato,3401.24,2024-11-23,6.0,342.3,4.0,0
+USR-1165,Carlos Pérez,22.0,Femenino,Quito,2044.14,08-18-2026,13.0,288.75,2.0,Sí
+USR-1104,Andrés Martínez,56.0,m,Guayaqil,739.42,06/09/2026,23.0,796.72,5.0,Sí
+USR-1054,Paula Martínez,46.0,F,guayaquil,586.32,2024/09/27,18.0,770.8,5.0,Sí
+USR-1015,Ana Martínez,62.0,M,Guayaqil,3318.61,06-23-2023,13.0,524.15,3.0,Sí
+USR-1085,Diego Sánchez,43.0,Otro,Manta,2318.54,08-10-2026,6.0,351.44,4.0,True
+USR-1118,Sebastián Mendoza,50.0,Femenino,Quito,936.32,2025-12-14,12.0,711.38,3.0,No
+USR-1109,Sofía Martínez,46.0,F,Quito,472.38,05-17-2025,7.0,369.12,4.0,1
+USR-1142,SEBASTIÁN RAMÍREZ,65.0,F,Cuenca,"$1,137.97",03-14-2024,10.0,451.98,3.0,False
+USR-1140,Lucía López,61.0,Femenino,Cuenca,871.61,2023-07-27,15.0,1074.05,2.0,si
+USR-1123,Sofía Rodríguez,54.0,Otro,Quito,"$1,215.47",19/06/2026,23.0,1130.32,3.0,0
+USR-1175,Sofía Pérez,19.0,F,Cuenca,1243.69,12/11/2023,5.0,310.7,2.0,0
+USR-1063,Valentina Vargas,61.0,M,Guayaquil,946.21,03/07/2026,17.0,1247.67,4.0,si
+USR-1083,Camila Pérez,54.0,Femenino,Guayaquil,1707.13,2023/03/31,29.0,536.31,3.0,True
+USR-1100,sofía garcía,48.0,Masculino,Quito,1120.68,08/07/2025,16.0,538.82,5.0,False
+USR-1072,Diego Sánchez,29.0,F,Quito,1608.31,02-02-2024,30.0,1544.3,4.0,Sí
+USR-1027,Camila Rodríguez,45.0,Masculino,QUITO,1792.54,2026/03/14,1.0,45.66,2.0,NO
+USR-1184,  Mateo López  ,49.0,F,Guayaquil,652.91,2024/07/31,13.0,884.38,3.0,True
+USR-1112,andrés sánchez,48.0,M,Cuenca,521.25,07/05/2025,20.0,414.16,1.0,NO
+USR-1051,Elena Torres,39.0,M,Guayaquil,2447.25,23/05/2026,22.0,1511.31,4.0,0
+USR-1004,diego sánchez,39.0,Femenino,Cuenca,802.98,2026-02-09,11.0,170.68,5.0,Sí
+USR-1029,Lucía Pérez,49.0,F,Cuenca,2844.47,2025-11-22,20.0,1042.21,5.0,1
+USR-1183,Lucía Rodríguez,43.0,Masculino,Cuenca,1291.58,11-25-2023,19.0,378.58,2.0,True
+USR-1099,  Sofía Torres  ,53.0,No binario,guayaquil,2318.36,17/11/2025,21.0,1406.42,10.0,Sí
+USR-1088,Lucía Mendoza,50.0,M,Guayaqil,1056.87,06-17-2023,8.0,354.66,1.0,1
+USR-1134,  Mateo Flores  ,18.0,M,Guayaquil,2068.06,2024-10-14,9.0,618.6,6.0,Sí
+USR-1120,Luis Sánchez,21.0,M,Guayaquil,2572.79,2023-10-09,21.0,1496.79,2.0,0
+USR-1169,Camila Ramírez,66.0,Femenino,Cuenca ,2169.24,2023-06-12,16.0,361.51,4.0,NO
+USR-1132,  Lucía Flores  ,46.0,M,Guayaquil,394.82,08/04/2023,8.0,263.03,1.0,1
+USR-1127,Sebastián López,49.0,Otro,Guayaquil,"$1,045.06",2026/06/29,2.0,71.93,1.0,NO
+USR-1021,luis lópez,58.0,Masculino,Guayaquil,1798.39,2025-10-20,12.0,401.72,2.0,No
+USR-1081,Ana López,33.0,f,Cuenca,2769.15,23/03/2026,7.0,522.94,1.0,si
+USR-1077,Mateo Rodríguez,37.0,Otro,guayaquil,1262.38,2024/08/19,7.0,432.24,2.0,si
+USR-1082,Andrés Mendoza,32.0,M,Guayaquil,567.33,2026/03/14,20.0,1582.21,1.0,NO
+USR-1119,Andrés García,25.0,F,QUITO,1175.5,2025-12-13,2.0,150.58,2.0,NO
+USR-1089,Sebastián Rodríguez,27.0,f,Cuenca,1497.03,2025-08-20,12.0,768.91,3.0,False
+USR-1068,Luis Martínez,63.0,Otro,Cuenca,1190.37,02-03-2025,1.0,67.71,1.0,0
+USR-1053,Andrés Torres,63.0,M,Quito,388.74,2025-01-01,22.0,1055.69,5.0,0
+USR-1090,Camila López,71.0,Masculino,Guayaquil,1153.99,2026-09-07,15.0,479.73,6.0,False
+USR-1094,carlos ramírez,48.0,F,Quito,591.43,11/11/2024,20.0,905.39,5.0,True
+USR-1093,  Camila Flores  ,30.0,M,Guayaquil,1482.71,09/08/2026,3.0,149.65,4.0,No
+USR-1157,Elena Torres,35.0,F,Guayaquil,676.84,2025-07-26,27.0,2197.62,2.0,False
+USR-1180,Javier González,68.0,Femenino,guayaquil,2049.45,10-08-2024,1.0,65.62,3.0,NO
+USR-1147,  Sebastián Vargas  ,70.0,F,Quito,704.76,2026/01/17,21.0,960.49,2.0,1
+USR-1017,Diego Pérez,27.0,F,Guayaquil,"$1,142.68",2025/06/19,10.0,436.49,2.0,Sí
+USR-1092,VALENTINA MENDOZA,53.0,F,Quito,893.81,01-22-2025,4.0,127.88,2.0,0
+USR-1096,Valentina Flores,42.0,M,Quito,$824.81,2024/09/19,18.0,288.17,5.0,0
+USR-1137,  Ana Pérez  ,38.0,No binario,Quito,"$1,139.36",2024/12/20,17.0,365.62,2.0,Sí
+USR-1067,Elena López,60.0,F,Guayaquil,1838.36,2023-04-28,23.0,624.87,5.0,NO
+USR-1091,Valentina Pérez,49.0,M,Cuenca,882.98,2023-11-24,1.0,24.03,3.0,True
+USR-1182,mateo torres,24.0,M,Ambato,526.71,08-14-2026,19.0,1482.48,4.0,0
+USR-1190,Valentina Flores,46.0,Femenino,Cuenca,2570.31,2026-03-07,12.0,494.82,5.0,True
+USR-1086,Ana Rodríguez,210.0,F,Quito,2995.1,07-10-2025,10.0,632.09,5.0,si
+USR-1039,  Sofía Sánchez  ,73.0,Femenino,Quito,1664.21,03-26-2025,14.0,840.32,2.0,1
+USR-1114,ANA LÓPEZ,38.0,Femenino,Guayaquil,799.52,2025-06-30,12.0,785.76,5.0,si
+USR-1056,ANA FLORES,74.0,M,Guayaquil,554.33,10-16-2024,20.0,704.36,3.0,NO
+USR-1191,Mateo López,57.0,M,guayaquil,$668.58,19/11/2023,3.0,201.31,-1.0,0
+USR-1044,carlos flores,-5.0,F,Guayaquil,2735.23,03-18-2026,5.0,222.04,5.0,No
+USR-1059,Luis Rodríguez,37.0,F,Guayaquil,2800.96,2025/09/07,2.0,149.69,3.0,0
+USR-1055,SEBASTIÁN VARGAS,20.0,M,guayaquil,1630.11,2026-03-23,2.0,39.57,4.0,False
+USR-1007,Mateo Rodríguez,41.0,Otro,Manta,"$1,091.51",11-25-2025,12.0,988.03,5.0,True
+USR-1108,Valentina Vargas,54.0,Femenino,Guayaqil,566.49,2023/09/22,24.0,543.3,1.0,0
+USR-1151,  Camila Vargas  ,29.0,f,Quito,2017.06,2023-04-24,28.0,521.02,1.0,1
+USR-1022,Sebastián Sánchez,23.0,Masculino,Guayaquil,3464.0,14/09/2024,7.0,392.0,1.0,False
+USR-1139,Carlos Sánchez,42.0,Masculino,QUITO,561.6,04-06-2024,5.0,344.88,4.0,Sí
+USR-1188,Lucía González,47.0,Otro,Quito,927.12,02-02-2026,4.0,197.76,4.0,No
+USR-1035,Elena Torres,47.0,No binario,Quito,874.96,2024-09-12,13.0,441.05,4.0,1
+USR-1062,  Mateo González  ,47.0,F,Quito,1244.75,07-02-2026,2.0,163.43,5.0,True
+USR-1070,  Luis Rodríguez  ,61.0,F,Ambato,767.38,2026-02-28,30.0,620.22,3.0,Sí
+USR-1189,Javier López,22.0,Femenino,Cuenca ,1406.35,2023-02-28,20.0,1111.2,10.0,NO
+USR-1028,Diego García,37.0,Otro,QUITO,1062.71,03-27-2026,3.0,240.63,2.0,Sí
+USR-1163,Diego Martínez,45.0,m,QUITO,735.71,2026/03/17,0.0,0.0,1.0,NO
+USR-1121,Ana Flores,210.0,M,Guayaquil,"$1,128.25",05-14-2026,29.0,2354.15,2.0,0
+USR-1042,Luis Rodríguez,31.0,F,Guayaquil,769.68,2023-04-12,24.0,428.7,4.0,1
