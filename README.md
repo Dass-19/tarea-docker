@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="https://hub.docker.com/r/dasskp/dass-transformation"><img src="https://img.shields.io/badge/docker%20hub-dasskp%2Fdass--transformation%3A1.0-537195?style=flat-square&logo=docker&logoColor=white" alt="Docker Hub"></a>
   <img src="https://img.shields.io/badge/python-3.13-537195?style=flat-square&logo=python&logoColor=white" alt="Python 3.13">
   <img src="https://img.shields.io/badge/docker-slim%20image-537195?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/pandas-3.1.1-b89146?style=flat-square&logo=pandas&logoColor=white" alt="pandas 3.1.1">
@@ -23,6 +24,7 @@
 </p>
 
 <p align="center">
+  <a href="#docker-hub">Docker Hub</a> ·
   <a href="#build">Build</a> ·
   <a href="#run">Run</a> ·
   <a href="#environment-variables">Environment variables</a> ·
@@ -31,6 +33,21 @@
 </p>
 
 ---
+
+## Docker Hub
+
+The image is published on Docker Hub with the version tag `1.0`:
+
+**[hub.docker.com/r/dasskp/dass-transformation](https://hub.docker.com/r/dasskp/dass-transformation)**
+
+```bash
+docker pull dasskp/dass-transformation:1.0
+docker run --rm -v "$(pwd)/data/processed:/app/data/processed" dasskp/dass-transformation:1.0
+```
+
+<p align="center">
+  <img src="docs/assets/dockerhub.png" width="800" alt="dasskp/dass-transformation repository on Docker Hub with tag 1.0">
+</p>
 
 ## Build
 
